@@ -1,5 +1,9 @@
 # GTA 6 Clipper — make.fun gta6-clipper-01
 
+[![make.fun](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/sandytaztaz-hue/gta6-clipper/rank.svg)](https://make.fun/bounty/gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/sandytaztaz-hue/gta6-clipper/reward.svg)](https://make.fun/bounty/gta6-clipper-01)
+
 A 22-second vertical Short cut from Rockstar's official Grand Theft Auto VI
 Launch Trailer (https://www.youtube.com/watch?v=rz1B4B2yBZY): the trailer's
 climax run (60.0–72.5s) — explosion, rooftop, Jason & Lucia's sunset embrace,
